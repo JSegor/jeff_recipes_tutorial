@@ -51,3 +51,11 @@ PUT inventory/_mapping
         }
     }
 }
+
+// Delete all documents but not the index
+POST inventory/_delete_by_query?conflicts=proceed
+{
+  "query": {
+    "match_all": {}
+  }
+}
