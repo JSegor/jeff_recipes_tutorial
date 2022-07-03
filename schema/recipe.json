@@ -1,0 +1,132 @@
+GET recipe
+
+// deletes a specific recipe given _id
+DELETE recipe/_doc/8FVFsIEBGZxEsLzipKEr
+
+// Define settings for recipe including custom analyzers
+PUT recipe
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "comma_delimted_analyzer": {
+          "type": "custom",
+          "tokenizer": "comma_delimted_tokenizer",
+          "filter": [
+            "lowercase",
+            "asciifolding"
+          ]
+        }
+      },
+      "tokenizer": {
+        "comma_delimted_tokenizer": {
+          "type": "pattern",
+          "pattern": "(, *)"
+        }
+      }
+    }
+  }
+}
+// Define the mappings for recipe
+PUT recipe/_mapping
+{
+  "properties": {
+    "identifier": {
+      "type": "text",
+      "analyzer": "keyword"
+    },
+    "name": {
+      "type": "text",
+      "analyzer": "keyword",
+      "fields": {
+        "standard": {
+          "type": "text",
+          "analyzer": "standard"
+        }
+      }
+    },
+    "mealType": {
+      "type": "text",
+      "analyzer": "keyword"
+    },
+    "linkName": {
+      "type": "text",
+      "analyzer": "english"
+    },
+    "linkSource": {
+      "type": "text",
+      "analyzer": "keyword"
+    },
+    "notes": {
+      "type": "text",
+      "analyzer": "english"
+    },
+    "ingredients": {
+      "properties": {
+        "item": {
+          "type": "text",
+          "analyzer": "keyword",
+          "fields": {
+            "standard": {
+              "type": "text",
+              "analyzer": "standard"
+            }
+          }
+        },
+        "amount": {
+          "type": "text",
+          "analyzer": "english"
+        }
+      }
+    },
+    "instructions": {
+      "properties": {
+        "step": {
+          "type": "long"
+        },
+        "description": {
+          "type": "text",
+          "analyzer": "english"
+        }
+      }
+    }
+  }
+}
+// Deletes the entire index recipe
+DELETE recipe
+
+// Get all recipes
+GET recipe/_search
+{
+  "size": 200,
+  "query": {
+    "match_all": {}
+  }
+}
+// Delete all documents in recipe but not the type
+POST recipe/_delete_by_query
+{
+  "query": {
+    "match_all": {}
+  }
+}
+// Reindex from one index to another and constraining it to a particular type
+POST _reindex
+{
+  "source": {
+    "index": "recipe",
+    "query": {
+      "match_all": {}
+    }
+  },
+  "dest": {
+    "index": "recipe2"
+  }
+}
+// Delete all documents but not the index
+POST recipe/_delete_by_query
+{
+  "query": {
+    "match_all": {}
+  }
+}
