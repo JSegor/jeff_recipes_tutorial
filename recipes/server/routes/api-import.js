@@ -33,14 +33,14 @@ recipeIDs.push('sloppy-joe.json');
 
 const { Client } = require('@elastic/elasticsearch')
 const client = new Client({
-    node: 'https://192.168.1.203:9200',
+    node: `https://${process.env.SERVER_IP}:${process.env.ES_PORT}`,
     auth: {
         username: process.env.ES_USER_ID,
         password: process.env.ES_USER_KEY
     },
     tls: {
         ca: fs.readFileSync('server/http_ca.crt'),
-        rejectUnauthorized: false
+        rejectUnauthorized: true
     }
 })
 

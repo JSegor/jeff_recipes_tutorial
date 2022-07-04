@@ -1,10 +1,10 @@
 # Recipes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4. This web application will manage your favorite recipes and store them into a database. 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `node server.js` for the backend server which talks to Elasticsearch node. Navigate to `http://192.168.1.203:98/`. This IP address may differ depending on your home networking environment. Find the actual IP address by doing `ipconfig` in a DOS command window.
 
 ## Code scaffolding
 

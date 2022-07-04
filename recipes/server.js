@@ -30,9 +30,9 @@ app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, 'dist/recipes/index.html'))
 });
 
-const port = process.env.PORT || 98;
+const port = process.env.SERVER_PORT || 4200;
 
-const ip = process.env.IP || '192.168.1.203';
+const ip = process.env.SERVER_IP || 'localhost';
 
 app.listen(port, ip, (req, res) => {
     console.log(`Running on ip: ${ip} port: ${port}`);
