@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DataAccessService } from '../data-access.service';
 
 @Component({
   selector: 'app-import-data',
@@ -6,10 +7,23 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./import-data.component.css']
 })
 export class ImportDataComponent implements OnInit {
+  status: string = "";
+  color: string = "lawngreen";
 
-  constructor() { }
+  constructor( private dataAccess: DataAccessService) { }
 
   ngOnInit(): void {
   }
 
+  importRecipes(): void {
+    this.dataAccess.executeImport(`/api-import/factory`, this);
+  }
+
+
+  importInventory(): void {
+    this.dataAccess.executeImport(`/api-import/inventory`, this);
+
+  }
+
+  
 }

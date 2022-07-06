@@ -1,0 +1,144 @@
+{
+    "identifier": "beef-stroganoff",
+    "name": "Beef Stroganoff",
+    "mealType": "main",
+    "linkName": "20 of the BEST Things to Make in the Instant Pot - What I ALWAYS Make",
+    "linkSource": "https://youtu.be/PlygNrWV-3s?t=1388",
+    "notes": "Modified original recipe to reduce the amount of egg noodles by half and doubled the amount of mushrooms. I also added a bit of cream cheese as well. The best way to reheat leftovers is to put the servings into the Instant Pot, add 1 cup of beef broth and pressure cook 4 minutes. Quick release. If it is too watery add 1 tablespoon of flour. Also add a bit more sour cream. Tastes just as yummy.",
+    "ingredients": [
+        {
+            "item": "Stew Meat",
+            "amount": "1 lb"
+        },
+        {
+            "item": "Olive Oil",
+            "amount": "1 to 2 tbsp"
+        },
+        {
+            "item": "Onion Diced",
+            "amount": "1"
+        },
+        {
+            "item": "Minced Garlic",
+            "amount": "1/2 tsp"
+        },
+        {
+            "item": "Kroger Baby Bella Mushrooms",
+            "amount": "1 to 2 8oz packages"
+        },
+        {
+            "item": "Tapioca Flour",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "Worcestershire Sauce",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "Beef Broth",
+            "amount": "3 cups"
+        },
+        {
+            "item": "Egg Noodles",
+            "amount": "8 oz"
+        },
+        {
+            "item": "Sour Cream",
+            "amount": "1 cup"
+        },
+        {
+            "item": "Cream Cheese (optional)",
+            "amount": "1 to 2 tbsp"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Layer the bottom of the liner with olive oil spray"
+        },
+        {
+            "step": 2,
+            "description": "Add stew meat, 1 package that covers the bottom (0.89 lbs to 1 lb)"
+        },
+        {
+            "step": 3,
+            "description": "Turn on saute mode"
+        },
+        {
+            "step": 4,
+            "description": "Add garlic salt, salt and pepper"
+        },
+        {
+            "step": 5,
+            "description": "Sear the meat by stirring it around for about 2-3 minutes"
+        },
+        {
+            "step": 6,
+            "description": "Add 1/2 to a whole chopped onion"
+        },
+        {
+            "step": 7,
+            "description": "Add 1/2 teaspoon of minced garlic or one garlic clove"
+        },
+        {
+            "step": 8,
+            "description": "Add 1-2 8oz packages of sliced mushrooms (e.g. Kroger Baby Bella, 1 package 8oz)"
+        },
+        {
+            "step": 9,
+            "description": "Mix all contents and saute for a few minutes"
+        },
+        {
+            "step": 10,
+            "description": "Add 2 tablespoons of tapioca flour (dissolved in 1 tbsp of water first) and mix to thicken sauce"
+        },
+        {
+            "step": 11,
+            "description": "Add 1 tablespoon of Worcestershire Sauce"
+        },
+        {
+            "step": 12,
+            "description": "Add 3 cups of Beef Broth"
+        },
+        {
+            "step": 13,
+            "description": "Turn off saute"
+        },
+        {
+            "step": 14,
+            "description": "Pressure Cook: 12 minutes"
+        },
+        {
+            "step": 15,
+            "description": "Quick Release"
+        },
+        {
+            "step": 16,
+            "description": "Add about 50% (8 oz (weight)) of a 16 oz package of egg noodles and stir. Add extra beef broth if necessary if too dry."
+        },
+        {
+            "step": 17,
+            "description": "Pressure Cook: 4 minutes"
+        },
+        {
+            "step": 18,
+            "description": "Quick Release"
+        },
+        {
+            "step": 19,
+            "description": "Turn on saute mode"
+        },
+        {
+            "step": 20,
+            "description": "Add 1 cup of sour cream and mix"
+        },
+        {
+            "step": 21,
+            "description": "Optional: add a bit of cream cheese for extra flavor"
+        },
+        {
+            "step": 22,
+            "description": "Add extra flour if too watery or add a bit more broth if too dry"
+        }
+    ]
+}

@@ -1,0 +1,965 @@
+[
+    {
+        "index": {}
+    },
+    {
+        "identifier": "basil",
+        "category": "Spices",
+        "name": "basil",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "black-pepper",
+        "category": "Spices",
+        "name": "black pepper",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cayenne",
+        "category": "Spices",
+        "name": "cayenne",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "celery-salt",
+        "category": "Spices",
+        "name": "celery salt",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cinnamon-ground",
+        "category": "Spices",
+        "name": "cinnamon (ground)",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "garlic-powder",
+        "category": "Spices",
+        "name": "garlic powder",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "garlic-salt",
+        "category": "Spices",
+        "name": "garlic salt",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "garlic-minced-can",
+        "category": "Spices",
+        "name": "garlic minced (can)",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "garlic-minced-bottle",
+        "category": "Spices",
+        "name": "garlic minced (bottle)",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "ginger-ground",
+        "category": "Spices",
+        "name": "ginger (ground)",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "italian-seasoning",
+        "category": "Spices",
+        "name": "italian seasoning",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "paprika",
+        "category": "Spices",
+        "name": "paprika",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "parsley-flat-leaf",
+        "category": "Spices",
+        "name": "parsley (flat leaf)",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "rosemary",
+        "category": "Spices",
+        "name": "rosemary",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "salt",
+        "category": "Spices",
+        "name": "salt",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "thyme-ground",
+        "category": "Spices",
+        "name": "thyme (ground)",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "beef-chuck",
+        "category": "Meat",
+        "name": "beef chuck",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "chicken-tenderloins",
+        "category": "Meat",
+        "name": "chicken tenderloins",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "frozen-beef-patties",
+        "category": "Meat",
+        "name": "frozen beef patties",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "ground-beef",
+        "category": "Meat",
+        "name": "ground beef",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "pork-sausages",
+        "category": "Meat",
+        "name": "pork sausages",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "roast-beef",
+        "category": "Meat",
+        "name": "roast beef",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "stew-meat",
+        "category": "Meat",
+        "name": "stew meat",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "barbecue-sauce",
+        "category": "Condiments",
+        "name": "barbecue sauce",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "brown-sugar",
+        "category": "Condiments",
+        "name": "brown sugar",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "dijon-mustard",
+        "category": "Condiments",
+        "name": "dijon mustard",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "honey",
+        "category": "Condiments",
+        "name": "honey",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "horseradish",
+        "category": "Condiments",
+        "name": "horseradish",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "ketchup",
+        "category": "Condiments",
+        "name": "ketchup",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "mayonnaise",
+        "category": "Condiments",
+        "name": "mayonnaise",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "salad-dressing",
+        "category": "Condiments",
+        "name": "salad dressing",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "salsa",
+        "category": "Condiments",
+        "name": "salsa",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "sour-cream",
+        "category": "Condiments",
+        "name": "sour cream",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "soy-sauce",
+        "category": "Condiments",
+        "name": "soy sauce",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "sweet-relish",
+        "category": "Condiments",
+        "name": "sweet relish",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "syrup",
+        "category": "Condiments",
+        "name": "syrup",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "tomato paste",
+        "category": "Condiments",
+        "name": "tomato paste",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "teriyaki sauce",
+        "category": "Condiments",
+        "name": "teriyaki sauce",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "worcestershire-sauce",
+        "category": "Condiments",
+        "name": "worcestershire sauce",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "avacados",
+        "category": "Vegetables",
+        "name": "avacados",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "baby-bella-mushrooms",
+        "category": "Vegetables",
+        "name": "baby bella mushrooms",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "baby-carrots",
+        "category": "Vegetables",
+        "name": "baby carrots",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "baby-potatoes",
+        "category": "Vegetables",
+        "name": "baby potatoes",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "baked-beans",
+        "category": "Vegetables",
+        "name": "baked beans",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "bell-peppers",
+        "category": "Vegetables",
+        "name": "bell peppers",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cherry-tomatoes",
+        "category": "Vegetables",
+        "name": "cherry-tomatoes",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "corn",
+        "category": "Vegetables",
+        "name": "corn",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "lettuce",
+        "category": "Vegetables",
+        "name": "lettuce",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "onions",
+        "category": "Vegetables",
+        "name": "onions",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "sweet-potato",
+        "category": "Vegetables",
+        "name": "sweet potato",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "sweet-potato-fries",
+        "category": "Vegetables",
+        "name": "sweet potato fries",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "apples",
+        "category": "Fruit",
+        "name": "apples",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "grapes",
+        "category": "Fruit",
+        "name": "grapes",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "almond-milk",
+        "category": "Dairy",
+        "name": "almond milk",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "butter",
+        "category": "Dairy",
+        "name": "butter",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cheddar-cheese",
+        "category": "Dairy",
+        "name": "cheddar cheese",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cottage-cheese",
+        "category": "Dairy",
+        "name": "cottage cheese",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cream-cheese",
+        "category": "Dairy",
+        "name": "cream cheese",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "half-and-half-milk",
+        "category": "Dairy",
+        "name": "half and half milk",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "parmesan cheese",
+        "category": "Dairy",
+        "name": "parmesan cheese",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "yogurt",
+        "category": "Dairy",
+        "name": "yogurt",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "beef-broth",
+        "category": "Broth",
+        "name": "beef broth",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "chicken-broth",
+        "category": "Broth",
+        "name": "chicken broth",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "olive-oil",
+        "category": "Oils",
+        "name": "olive oil",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "bowtie-pasta",
+        "category": "Pasta",
+        "name": "bowtie pasta",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "egg-noodles",
+        "category": "Pasta",
+        "name": "egg noodles",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "macaroni-salad",
+        "category": "Pasta",
+        "name": "macaroni salad",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "bread",
+        "category": "Grains",
+        "name": "bread",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "buns-hamburger",
+        "category": "Grains",
+        "name": "buns hamburger",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "buns-hotdog",
+        "category": "Grains",
+        "name": "buns hotdog",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cereal",
+        "category": "Grains",
+        "name": "cereal",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "flour",
+        "category": "Grains",
+        "name": "flour",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "muffins",
+        "category": "Grains",
+        "name": "muffins",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "oatmeal",
+        "category": "Grains",
+        "name": "oatmeal",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "rice",
+        "category": "Grains",
+        "name": "rice",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "chocolate",
+        "category": "Confections",
+        "name": "chocolate",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cookies",
+        "category": "Confections",
+        "name": "cookies",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "lemonade",
+        "category": "Drinks",
+        "name": "lemonade",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "ovaltine",
+        "category": "Drinks",
+        "name": "ovaltine",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "power-drink",
+        "category": "Drinks",
+        "name": "power drink",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "probiotics",
+        "category": "Drinks",
+        "name": "probiotics",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "sparkling-water",
+        "category": "Drinks",
+        "name": "sparkling water",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "water",
+        "category": "Drinks",
+        "name": "water",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "tumeric",
+        "category": "Vitamins and Herbs",
+        "name": "tumeric",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "vitamin-d",
+        "category": "Vitamins and Herbs",
+        "name": "vitamin D",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "waffles",
+        "category": "Pastries",
+        "name": "waffles",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "almonds",
+        "category": "Snacks",
+        "name": "almonds",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cashews",
+        "category": "Snacks",
+        "name": "cashews",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "chips",
+        "category": "Snacks",
+        "name": "chips",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "dip",
+        "category": "Snacks",
+        "name": "dip",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "peanuts",
+        "category": "Snacks",
+        "name": "peanuts",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "coleus",
+        "category": "Garden",
+        "name": "coleus",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cyclamen",
+        "category": "Garden",
+        "name": "cyclamen",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "geranium",
+        "category": "Garden",
+        "name": "geranium",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "tomato",
+        "category": "Garden",
+        "name": "tomato",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "allegra",
+        "category": "Medication",
+        "name": "allegra",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "claritin",
+        "category": "Medication",
+        "name": "claritin",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "pepcid",
+        "category": "Medication",
+        "name": "pepcid",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "excedrin",
+        "category": "Medication",
+        "name": "excedrin",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cleanex",
+        "category": "Other",
+        "name": "cleanex",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "dish-soap",
+        "category": "Other",
+        "name": "dish soap",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "hand-soap",
+        "category": "Other",
+        "name": "hand soap",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "large-envelopes",
+        "category": "Other",
+        "name": "large envelopes",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "paper-printer",
+        "category": "Other",
+        "name": "paper printer",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "paper-towels",
+        "category": "Other",
+        "name": "paper towels",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "pens",
+        "category": "Other",
+        "name": "pens",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "tweezers",
+        "category": "Other",
+        "name": "tweezers",
+        "instock": false
+    }
+]

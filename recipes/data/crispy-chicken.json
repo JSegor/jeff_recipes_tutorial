@@ -1,0 +1,120 @@
+{
+    "identifier": "crispy-chicken",
+    "name": "Crispy Chicken Tenderloins",
+    "mealType": "main",
+    "linkName": "15 SIMPLE Recipes that will make you WANT an AIR FRYER! → What to Make in Your Air Fryer",
+    "linkSource": "https://youtu.be/pf0UujmqBNM?t=268",
+    "notes": "Create more breadcrumb mixture than you need and place it in a separate container. That saves time putting the ingredients together. You can be creative with the spices and add any others that you think appropriate. I prefer chicken tenderloins to chicken breasts since they are less tough and smaller. Reheat from fridge using Air Fryer for 3 minutes to keep them crisp.",
+    "ingredients": [
+        {
+            "item": "Chicken Tenderloins, unfrozen",
+            "amount": "0.8 to 1.2 lbs"
+        },
+        {
+            "item": "Panko breadcrumbs*",
+            "amount": "1 cup"
+        },
+        {
+            "item": "All-purpose flour*",
+            "amount": "1 cup"
+        },
+        {
+            "item": "Baking powder*",
+            "amount": "1/2 tsp"
+        },
+        {
+            "item": "Salt*",
+            "amount": "1 tsp"
+        },
+        {
+            "item": "Celery seed*",
+            "amount": "1 tsp"
+        },
+        {
+            "item": "Dried oregano*",
+            "amount": "1/2 tsp"
+        },
+        {
+            "item": "Cayenne*",
+            "amount": "1/4 tsp"
+        },
+        {
+            "item": "Paprika*",
+            "amount": "2 tsp"
+        },
+        {
+            "item": "Garlic powder*",
+            "amount": "1/2 tsp"
+        },
+        {
+            "item": "Dried thyme*",
+            "amount": "1/2 tsp"
+        },
+        {
+            "item": "Ground ginger*",
+            "amount": "1 tsp"
+        },
+        {
+            "item": "Ground black pepper*",
+            "amount": "1 tsp"
+        },
+        {
+            "item": "Buttermilk or Buttermilk-like mixture",
+            "amount": "1/2 cup"
+        },
+        {
+            "item": "White Vinegar",
+            "amount": "1/2 tbsp"
+        },
+        {
+            "item": "Brown sugar (optional)",
+            "amount": "1 tbsp"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Create Breadcrumb + Spices Mixture (mix thoroughly, and place in separate container for multiple meals). Use * ingredients."
+        },
+        {
+            "step": 2,
+            "description": "Create Marinate Liquid. 1/2 cup of buttermik or 1/2 tbsp of white vinegar then enough milk to make 1/2 cup."
+        },
+        {
+            "step": 3,
+            "description": "Place the chicken tenderloins or breast tenders (1 lb unfrozen packaged, approximately 7-12 pieces) into a bowl drenched in the marinate liquid."
+        },
+        {
+            "step": 4,
+            "description": "Let marinate in the refrigerator for 30 minutes."
+        },
+        {
+            "step": 5,
+            "description": "Place enough breadcrumb mixture on a plate and coat the chicken with the breadcrumbs"
+        },
+        {
+            "step": 6,
+            "description": "Place chicken in fryer bucket, spraying chicken & bucket with olive oil"
+        },
+        {
+            "step": 7,
+            "description": "Airfryer: Preheat airfryer to 400 F (maybe 1 minute for the Instant Pot)"
+        },
+        {
+            "step": 8,
+            "description": "Place about 4 chicken pieces in fryer bucket."
+        },
+        {
+            "step": 9,
+            "description": "Cook at 370 F for 12 minutes, flipping chicken half way through."
+        },
+        {
+            "step": 10,
+            "description": "When done make sure the temperature of chicken is 170 F."
+        },
+        {
+            "step": 11,
+            "description": "Repeat with the remaining chicken tenderloins"
+        }
+    ]
+}

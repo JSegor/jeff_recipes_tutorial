@@ -1,0 +1,72 @@
+{
+    "identifier": "frozen-beef-burgers",
+    "name": "Frozen Beef Burgers",
+    "mealType": "main",
+    "linkName": "",
+    "linkSource": "",
+    "notes": "",
+    "ingredients": [
+        {
+            "item": "Frozen Beef Patties",
+            "amount": "1 or more"
+        },
+        {
+            "item": "Onion diced",
+            "amount": "sprinkle"
+        },
+        {
+            "item": " Worcestershire sauce",
+            "amount": "sprinkle"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Place a cup of water in liner"
+        },
+        {
+            "step": 2,
+            "description": "Place burger on Trivet with handles up so burger not touching water"
+        },
+        {
+            "step": 3,
+            "description": "Steam: 3 minutes"
+        },
+        {
+            "step": 4,
+            "description": "Quick Release"
+        },
+        {
+            "step": 5,
+            "description": "Remove burger and water from liner"
+        },
+        {
+            "step": 6,
+            "description": "Place thawed burger on the elevated Trivet which goes inside the fryer bucket."
+        },
+        {
+            "step": 8,
+            "description": "Add some Worcestershire sauce"
+        },
+        {
+            "step": 9,
+            "description": "Air Fryer"
+        },
+        {
+            "step": 10,
+            "description": "Temp: 370 set for 20 minutes"
+        },
+        {
+            "step": 11,
+            "description": "Flip burger half-way through (10 minute mark)"
+        },
+        {
+            "step": 12,
+            "description": "Add chopped onions on top of the burger"
+        },
+        {
+            "step": 13,
+            "description": "Finish up the final 10 minutes"
+        }
+    ]
+}

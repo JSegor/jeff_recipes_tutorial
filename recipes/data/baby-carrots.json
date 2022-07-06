@@ -1,0 +1,31 @@
+{
+    "identifier": "baby-carrots",
+    "name": "Baby Carrots",
+    "mealType": "side",
+    "linkName": "",
+    "notes": "If carrots are undercooked, you can just place the lid back on for a couple more minutes without pressuring",
+    "ingredients": [
+        {
+            "item": "Baby Carrots",
+            "amount": "1 to 2 cups"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Add 1 cup of water into pot"
+        },
+        {
+            "step": 2,
+            "description": "Place 1 -2 cups of baby carrots directly into water"
+        },
+        {
+            "step": 3,
+            "description": "Pressure Cook: 3 minutes (more firm, preferable for dipping into dip), 4 minutes (softer)"
+        },
+        {
+            "step": 4,
+            "description": "Quick Release)"
+        }
+    ]
+}

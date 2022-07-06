@@ -1,0 +1,168 @@
+{
+    "identifier": "creamy-beef-pasta",
+    "name": "Creamy Beef Pasta",
+    "mealType": "main",
+    "linkName": "*FIVE* MUST TRY INSTANT POT RECIPES | Great For Beginners & Real Weeknight Dinners | Julia Pacheco",
+    "linkSource": "https://youtu.be/dF3iOZmbPTU?t=190",
+    "notes": "Serve sprinked with basil leaves and Parmesian cheese. These make 5 servings and they taste even better the next day. I freeze them in one-meal containers. To defrost, I take the frozen container and place it into a sling and add 1 cup of water or beef broth and set the setting to steam for about 25 minutes. I then remove the water from the liner and saute for a few minutes if necessary.",
+    "ingredients": [
+        {
+            "item": "Onion diced",
+            "amount": "1"
+        },
+        {
+            "item": "Green or Red Bell Pepper",
+            "amount": "2"
+        },
+        {
+            "item": "Olive Oil",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "Ground Beef (lean)",
+            "amount": "1 lb"
+        },
+        {
+            "item": "Italian Seasoning",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "Garlic salt",
+            "amount": "1 tsp"
+        },
+        {
+            "item": "Garlic powder",
+            "amount": "1 tsp"
+        },
+        {
+            "item": "Baby carrots",
+            "amount": "10 to 16 carrots"
+        },
+        {
+            "item": "Tomato paste",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "Barilla Mini Farfalle bowtie pasta",
+            "amount": "12 oz weight"
+        },
+        {
+            "item": "Kroger Tomato + Basil Pasta Sauce",
+            "amount": "24 oz liquid"
+        },
+        {
+            "item": "Philly cream cheese",
+            "amount": "3 tbsp"
+        },
+        {
+            "item": " Parmesean Cheese",
+            "amount": "1 cup"
+        },
+        {
+            "item": " Half-half milk",
+            "amount": "1/2 cup"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Add tablespoon of olive oil into liner (maybe a tad more than 1 tblsp)"
+        },
+        {
+            "step": 2,
+            "description": "Add one chopped onion"
+        },
+        {
+            "step": 3,
+            "description": "Saute for about 3 minutes to make translucent"
+        },
+        {
+            "step": 4,
+            "description": "Add 1 lb of ground beef"
+        },
+        {
+            "step": 5,
+            "description": "Saute until meat has browned"
+        },
+        {
+            "step": 6,
+            "description": "Use a paper towel to soak up extra fat from meat"
+        },
+        {
+            "step": 7,
+            "description": "Add a tablespoon of Italian Seasoning"
+        },
+        {
+            "step": 8,
+            "description": "Add a teaspoon of salt or garlic salt"
+        },
+        {
+            "step": 9,
+            "description": "Add a teaspoon of garlic powder"
+        },
+        {
+            "step": 10,
+            "description": "Add one or two large chopped Green or Red Pepper (optional)"
+        },
+        {
+            "step": 11,
+            "description": "Add a couple of chopped Celery stalks (optional)"
+        },
+        {
+            "step": 12,
+            "description": "Add about 10-16 baby carrots chopped"
+        },
+        {
+            "step": 13,
+            "description": "Add a tablespoon of tomato paste"
+        },
+        {
+            "step": 14,
+            "description": "Stir until the tomato paste melts down"
+        },
+        {
+            "step": 15,
+            "description": "Add 12 oz package of Barilla Mini Farfalle bowtie pasta (do not stir, a layer on top of meat) (Use 4.125 liquid cups == 12 oz weight)"
+        },
+        {
+            "step": 16,
+            "description": "Add 24 oz of Kroger Tomato + Basil Pasta Sauce (do not stir)"
+        },
+        {
+            "step": 17,
+            "description": "Add 3 cups of water (do not stir)"
+        },
+        {
+            "step": 18,
+            "description": "Make sure any pasta pieces are submerged (do not stir)"
+        },
+        {
+            "step": 19,
+            "description": "Pressure Cook (high): 6 minutes"
+        },
+        {
+            "step": 20,
+            "description": "Quick Release"
+        },
+        {
+            "step": 21,
+            "description": "Stir thoroughly"
+        },
+        {
+            "step": 22,
+            "description": "Add 3 tablespoons of cream cheese"
+        },
+        {
+            "step": 23,
+            "description": "Add 1 cup of Parmesean Cheese"
+        },
+        {
+            "step": 24,
+            "description": "Add 1/2 cup of whole milk, half-and-half or cream or Almond milk"
+        },
+        {
+            "step": 25,
+            "description": "Stir thoroughly"
+        }
+    ]
+}

@@ -37,6 +37,7 @@ const client = new Client({
     auth: {
         username: process.env.ES_USER_ID,
         password: process.env.ES_USER_KEY
+
     },
     tls: {
         ca: fs.readFileSync('server/http_ca.crt'),
@@ -81,6 +82,10 @@ router.post('/factory', (req, res) => {
         function (error) {
             console.log("-------ERROR-----------");
             console.log(JSON.stringify(error));
+            if (error.meta === undefined){
+                res.status(500).send(error + "(Programming Error)");
+                return;
+            }
             if (error.meta.body !== undefined) {
                 console.log(error.meta.body.error.reason);
                 console.log(error.meta.body.status);
@@ -118,6 +123,10 @@ router.post('/inventory', (req, res) => {
         function (error) {
             console.log("-------ERROR-----------");
             console.log(JSON.stringify(error));
+            if (error.meta === undefined){
+                res.status(500).send(error + "(Programming Error)");
+                return;
+            }
             if (error.meta.body !== undefined) {
                 console.log(error.meta.body.error.reason);
                 console.log(error.meta.body.status);

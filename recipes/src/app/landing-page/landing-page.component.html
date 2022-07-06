@@ -1,1 +1,38 @@
-<p style="color:white">landing-page works!</p>
+
+<div class="container px-3 py-5" id="custom-cards">
+  <h2 class="pb-4" style="color:white">Recipes</h2>
+
+  <div class="row row-cols-sm-2 row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+
+    <div class="col" *ngFor="let item of recipes">
+      <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-4 shadow-lg clickable"
+        style="background-image: url('assets/images/{{item.identifier}}.jpg');" (click)="onRecipeClick(item.identifier)">
+        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+          <h2 class="pt-1 mt-0 display-6 lh-1 fw-bold label">{{item.name}}</h2>
+          <ul class="d-flex list-unstyled mt-auto">
+            <li class="me-auto">
+              <img src="assets/images/usa.svg" alt="Bootstrap" width="48" height="48">
+            </li>
+            <li class="d-flex align-items-center me-3">
+              <svg class="bi me-2" width="1em" height="1em">
+                <use xlink:href="#geo-fill" />
+              </svg>
+              <small style="color:blue">{{item.mealType}}</small>
+            </li>
+            <li class="d-flex align-items-center">
+              <svg class="bi me-2" width="1em" height="1em">
+                <use xlink:href="#calendar3" />
+              </svg>
+              <small>??</small>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+   
+
+  </div>
+</div>
+
+<!-- <div class="b-example-divider"></div> -->

@@ -1,0 +1,112 @@
+{
+    "identifier": "sloppy-joe",
+    "name": "Sloppy Joe",
+    "mealType": "main",
+    "linkName": "Instant Pot Sloppy Joes",
+    "linkSource": "https://www.pressurecookrecipes.com/instant-pot-sloppy-joes/",
+    "notes": "",
+    "ingredients": [
+        {
+            "item": "lean ground beef",
+            "amount": "1 to 1.5 lbs"
+        },
+        {
+            "item": "onion diced",
+            "amount": "1"
+        },
+        {
+            "item": "green or red bell pepper diced",
+            "amount": "1"
+        },
+        {
+            "item": "garlic cloves or minced",
+            "amount": "3 cloves or 10mg minced"
+        },
+        {
+            "item": "ketchup",
+            "amount": "3/4 cup or 188ml"
+        },
+        {
+            "item": "tomato paste",
+            "amount": "1 tbsp or 15ml"
+        },
+        {
+            "item": "soy sauce",
+            "amount": "1 tbsp or 15ml"
+        },
+        {
+            "item": "Hickory & Brown Sugar Barbecue Sauce",
+            "amount": "1 tbsp or 15ml"
+        },
+        {
+            "item": "Worcestershire sauce",
+            "amount": "1 tbsp or 15ml"
+        },
+        {
+            "item": "brown sugar",
+            "amount": "1 tbsp or 12.5g"
+        },
+        {
+            "item": "dijon mustard",
+            "amount": "1 tsp or 5ml"
+        },
+        {
+            "item": "beef broth",
+            "amount": "1/2 cup"
+        },
+        {
+            "item": "water",
+            "amount": "1/2 cup"
+        },
+        {
+            "item": "olive oil",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "sweet relish (optional)",
+            "amount": "3 tbsp"
+        },
+        {
+            "item": "liquid smoke (optional)",
+            "amount": "2 to 3 drops"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Cover bottom of instant pot with olive oil"
+        },
+        {
+            "step": 2,
+            "description": "Add the ground beef to the pan and turn on saute. Brown for 3-5 minutes."
+        },
+        {
+            "step": 3,
+            "description": "Add diced onion and saute for about 2 minutes"
+        },
+        {
+            "step": 4,
+            "description": "Add Bell Pepper and saute for about a minute"
+        },
+        {
+            "step": 5,
+            "description": "Add the brown sugar, soy sauce, Worcestershire, barbeque sauce, 1/2 cup of broth. Mix and saute. "
+        },
+        {
+            "step": 6,
+            "description": "Add another 1/2 cup of water (to make sure enough liquid for pressure cook)."
+        },
+        {
+            "step": 7,
+            "description": "Put Tomato paste, ketchup, sweet relish, dijon mustard on top. Do not mix (not sure why)."
+        },
+        {
+            "step": 8,
+            "description": "Pressure cook for 5 minutes with a 10 minute natural release."
+        },
+        {
+            "step": 9,
+            "description": "Serve with buns."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+.alignme {
+    text-align: center;
+  }
+
+  .message {
+    background-color: black;
+    padding:20px;
+    margin:20px;
+    font-size: 1.2em;
+  }

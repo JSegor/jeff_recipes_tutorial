@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="row justify-content-center alignme">
+    <div class="col">
+      <button (click)="onShoppingListShow()" class="btn btn-primary">Print Shopping List</button>
+    </div>
+    <div class="col">
+      <button (click)="onRefreshList()" class="btn btn-primary">Refresh List</button>
+    </div>
+    <div class="col">
+      <button (click)="onClearShoppingList()" class="btn btn-primary">Clear Shopping List</button>
+    </div>
+  </div>
+</div>
+<div class="categories">
+  <div class="form-check" *ngFor="let item of categories">
+    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" [checked]="item.checked"
+      (click)="onClicked($event,item.name)">
+    <label class="form-check-label" for="flexCheckDefault">
+      {{item.name}}
+    </label>
+  </div>
+</div>
+<div class="example-container">
+  <h2 class="hr">Potential Needed Items</h2>
+
+  <div cdkDropList #todoList="cdkDropList" [cdkDropListData]="todo" [cdkDropListConnectedTo]="[doneList]"
+    class="example-list" (cdkDropListDropped)="drop($event)">
+    <div class="example-box" [class.instock]="item.instock" [class.warning]="!item.instock" *ngFor="let item of todo"
+      cdkDrag>{{item.name}}</div>
+
+  </div>
+</div>
+
+<div class="example-container">
+  <h2 class="hr">Shopping List</h2>
+  <div cdkDropList #doneList="cdkDropList" [cdkDropListData]="done" [cdkDropListConnectedTo]="[todoList]"
+    class="example-list" (cdkDropListDropped)="drop($event)">
+    <div class="example-box" *ngFor="let item of done" cdkDrag>{{item.name}}</div>
+  </div>
+</div>

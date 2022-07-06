@@ -1,0 +1,36 @@
+{
+    "identifier": "oatmeal",
+    "name": "Oatmeal",
+    "mealType": "breakfast",
+    "linkName": "7 Instant Pot Essential Recipes you NEED to Know - Perfect for Beginners!",
+    "linkSource": "https://youtu.be/j43b8xVfGBs?t=208",
+    "notes": "Don't use instant oatmeal or steel cut. Serve with dark brown sugar, coconut cream, raspberries, blueberries, bananas, etc. You might find the clean-up a bit messy. Make sure you clean the lid's pressure valves and anti-block shield for obstruction and empty the condensation container. I fill the liner completely with cold water after emptying the oatmeal for easy cleaning.",
+    "ingredients": [
+        {
+            "item": " Oatmeal",
+            "amount": "1 cup"
+        },
+        {
+            "item": " Water",
+            "amount": "2 cup"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "water:oatmeal ==> 2:1 (minimum of 1 cup of water for 2 servings)"
+        },
+        {
+            "step": 2,
+            "description": "place oatmeal directly into water (don't stir)"
+        },
+        {
+            "step": 3,
+            "description": "Pressure Cook: 1-2 minutes"
+        },
+        {
+            "step": 4,
+            "description": "Quick Release"
+        }
+    ]
+}

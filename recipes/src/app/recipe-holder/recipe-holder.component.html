@@ -1,0 +1,45 @@
+<div class="header_section">
+
+    <h2>{{recipeName}}</h2>
+    <div class="picture">
+        <img src={{recipeImage}} width=128px>
+    </div>
+    <p class="notes">{{notes}}</p>
+    <div *ngIf="showLink==true">
+        Source of Recipe: <br>
+        <a href="{{linkSource}}" target="_blank">{{linkName}}</a>
+    </div>
+
+</div>
+
+<div class="banner1">
+    <h4>Ingredients</h4>
+</div>
+
+<div class="ingredients">
+
+    <table>
+        <th width=400px>Item
+        <th>Amount</th>
+        <tr *ngFor="let item of ingredients">
+            <td>
+                {{item.item}}
+            </td>
+            <td>
+                {{item.amount}}
+            </td>
+
+        </tr>
+
+    </table>
+</div>
+
+<div class="banner1">
+    <h4>Recipe Instructions</h4>
+</div>
+
+<div class="instructions">
+    <ol>
+        <li *ngFor="let item of instructions">{{item.description}}</li>
+    </ol>
+</div>

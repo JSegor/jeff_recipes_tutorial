@@ -93,7 +93,7 @@ router.get('/recipes/all-recipes', (req, res) => {
 
   async function run() {
 
-    var qryObj = {
+    var bodyObj = {
       from: 0, size: 100,
       query: {
         match_all: {}
@@ -104,7 +104,7 @@ router.get('/recipes/all-recipes', (req, res) => {
     var result = await client.search({
       index: 'recipe',
       _source: true,
-      body: qryObj
+      body: bodyObj
     })
     console.log("Getting all Recipes");
     console.log("total number of hits: " + result.hits.hits.length);
@@ -142,10 +142,13 @@ router.get('/recipes/all-recipes', (req, res) => {
 router.get('/inventory/:category', (req, res) => {
   setCORSHeader(res);
 
+  
+
   async function run() {
 
+   
 
-    var qryObj = {
+    var bodyObj = {
       from: 0, size: 100,
       query: {
         match: { category: req.params.category }
@@ -158,9 +161,9 @@ router.get('/inventory/:category', (req, res) => {
     var result = await client.search({
       index: 'inventory',
       _source: true,
-      body: qryObj
+      body: bodyObj
     })
-    console.log("Getting all Recipes");
+    console.log(`getting inventory for category = ${req.params.category}`)
     console.log("total number of hits: " + result.hits.hits.length);
     var returned = [];
     for (var i = 0; i < result.hits.hits.length; i++) {

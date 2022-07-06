@@ -1,0 +1,112 @@
+{
+    "identifier": "egg-bites",
+    "name": "Egg Bites",
+    "mealType": "breakfast",
+    "linkName": "How to Make Egg Bites in the Instant Pot | Starbucks Egg Bites",
+    "linkSource": "https://youtu.be/px6AGmIrpok",
+    "notes": "You can get creative on this as far as ingredients goes. Chunks of bacon, ham, sausage or any other chopped meat can be added. You can add paprika, or any other spice. The aluminum foil wrapping is optional. I looked at 2 recipes one used it and one didn't. I suppose the foil will keep out some extra moisture. You can try it both ways.",
+    "ingredients": [
+        {
+            "item": "eggs",
+            "amount": "4"
+        },
+        {
+            "item": "cottage cheese",
+            "amount": "1/4 cup"
+        },
+        {
+            "item": "half/half milk",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "paprika",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "garlic salt",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "olive oil",
+            "amount": "spray"
+        },
+        {
+            "item": "onion diced",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "cheddar cheese",
+            "amount": "1/3 cup"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "In a mixing bowl, crack open 4 large eggs (per egg bite mold)."
+        },
+        {
+            "step": 2,
+            "description": "Add 1/4 cup of whipping cream or cottage cheese or milk. I typically use the low-fat cottage cheese. The cream will make it more decadent and you may have to do more exercise."
+        },
+        {
+            "step": 3,
+            "description": "Add 2 tablespoons of half/half to the mixture for typically sized large eggs"
+        },
+        {
+            "step": 4,
+            "description": "Sprinkle in a bit of cheddar cheese or any other cheese (optional)"
+        },
+        {
+            "step": 5,
+            "description": "I typically let the consumer add the salt and pepper."
+        },
+        {
+            "step": 6,
+            "description": "Place the contents into the blender and blend high."
+        },
+        {
+            "step": 7,
+            "description": "Use a non-stick oil spray (e.g. olive oil) on the egg mold to prevent sticking."
+        },
+        {
+            "step": 8,
+            "description": "Pour the liquid eggs into the egg molds, perhaps about 3/4 to the top."
+        },
+        {
+            "step": 9,
+            "description": "Scatter about 1/3 cup of cheddar cheese on top."
+        },
+        {
+            "step": 10,
+            "description": "Scatter some chopped onions, green peppers, or any other chopped veggies on top"
+        },
+        {
+            "step": 11,
+            "description": "Optionally you can add spices on top, e.g. paprika. Or add your chopped meat (ham, bacon, sausage, etc.)"
+        },
+        {
+            "step": 12,
+            "description": "1 cup water into Instant Pot"
+        },
+        {
+            "step": 13,
+            "description": "Wrap the egg mold with aluminum foil or wax paper (optional). Wrap it tightly enough so it does not block the air circulation around the perimeter within the instant pot."
+        },
+        {
+            "step": 14,
+            "description": "I place the silicon sling directly in the liner and the egg mold on top. You can actually stack multiple molds that way for extra bites."
+        },
+        {
+            "step": 15,
+            "description": "Pressure Cook: 10 minutes"
+        },
+        {
+            "step": 16,
+            "description": "Natural Release: 10 minutes. I accidentally left natural release on for 15 minutes which made for larger little omelettes."
+        },
+        {
+            "step": 17,
+            "description": "To get the eggs out of the mold the simplest way is to put a plate on top and flip over and the egg bites should come out with a little pressure on the mold."
+        }
+    ]
+}

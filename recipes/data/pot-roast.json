@@ -1,0 +1,184 @@
+{
+    "identifier": "pot-roast",
+    "name": "Pot Roast",
+    "mealType": "main",
+    "linkName": "THE BEST Instant Pot POT ROAST Recipe | With Baby Potatoes and Carrots",
+    "linkSource": "https://youtu.be/8VxJ6EEZ4HA",
+    "notes": "",
+    "ingredients": [
+        {
+            "item": "chuck or rump roast",
+            "amount": "3 lbs"
+        },
+        {
+            "item": "salt",
+            "amount": "1 tsp"
+        },
+        {
+            "item": "rosemary",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "garlic powder",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "black pepper",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "onion powder",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "dry thyme",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "paprika",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "olive oil",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "onions - large",
+            "amount": "2"
+        },
+        {
+            "item": "butter",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "beef stock",
+            "amount": "1 cup"
+        },
+        {
+            "item": "Red Wine (good quality)",
+            "amount": "1/2 cup"
+        },
+        {
+            "item": "Worcestershire Sauce",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "Kroger Baby Bella Mushrooms",
+            "amount": "4 to 6 oz weight"
+        },
+        {
+            "item": "Baby potatoes",
+            "amount": "2 lbs"
+        },
+        {
+            "item": "Baby carrots",
+            "amount": "10-15"
+        },
+        {
+            "item": "Tapioca Flour",
+            "amount": "2 tbsp"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Remove any strings and fat from roast meat"
+        },
+        {
+            "step": 2,
+            "description": "Make a mixture of salt, rosemary, garlic powder,  black pepper, onion powder, dry thyme, paprika - 1/2 to 1 tbsp each to taste"
+        },
+        {
+            "step": 3,
+            "description": "Roll roast in seasoning mixture"
+        },
+        {
+            "step": 4,
+            "description": "Turn on saute for about 3 minutes depending on size of pot."
+        },
+        {
+            "step": 5,
+            "description": "Add 2 tblsp of olive oil"
+        },
+        {
+            "step": 6,
+            "description": "Sear the roast in the pot"
+        },
+        {
+            "step": 7,
+            "description": "Remove roast and put on seasoning plate"
+        },
+        {
+            "step": 8,
+            "description": "Add a tbsp of butter into pot with saute on"
+        },
+        {
+            "step": 9,
+            "description": "Add onion slices to pot and saute for 3-5 minutes"
+        },
+        {
+            "step": 10,
+            "description": "Add 1 cup of beef stock to onions and deglaze (scrape bottom and mix) the pot"
+        },
+        {
+            "step": 11,
+            "description": "Add 1/2 cup of very good red wine ($10-15 wine)"
+        },
+        {
+            "step": 12,
+            "description": "Add 2 tbsp of worcestershire sauce"
+        },
+        {
+            "step": 13,
+            "description": "Turn off saute mode"
+        },
+        {
+            "step": 14,
+            "description": "Add roast back into pot without trivet"
+        },
+        {
+            "step": 15,
+            "description": "Add 4-6 oz weight of baby bella mushrooms"
+        },
+        {
+            "step": 16,
+            "description": "Wrap baby potatoes with unbleached parchment paper (to avoid too soft veggies)"
+        },
+        {
+            "step": 17,
+            "description": "Wrap baby carrots with unbleached parchment paper"
+        },
+        {
+            "step": 18,
+            "description": "Place the wrapped carrots and potatoes into the pot, making sure there is room around edges for pressure to work."
+        },
+        {
+            "step": 19,
+            "description": "Pressure cook high: 20 minutes/lb of meat (in this case 60 minutes)."
+        },
+        {
+            "step": 20,
+            "description": "Natural release for 10 minutes."
+        },
+        {
+            "step": 21,
+            "description": "Release remaining pressure"
+        },
+        {
+            "step": 22,
+            "description": "Remove parchment from veggies"
+        },
+        {
+            "step": 23,
+            "description": "Combine 4 tablespoons of cold water with 2 tablespoons of Tapioca Flour for thickness, then add to Pot (healthier than cornstarch)"
+        },
+        {
+            "step": 24,
+            "description": "Turn on saute mode and wait until bubbling after which the liquid will thicken"
+        },
+        {
+            "step": 25,
+            "description": "Cut the meat against the grain and add back to pot and serve."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+.header_section {
+
+    background-color: beige;
+    padding: 5px;
+    font-family: "Merienda One";
+}
+
+.notes {
+    padding: 5px;
+}
+
+.picture {
+    position: relative;
+    
+}
+
+.banner1 {
+    position: relative;
+    background-color: black;
+    height: 40px;
+    color:white;
+    padding: 5px;
+}
+
+
+.ingredients {
+    position: relative;
+    background-color: beige;
+    width:100%;
+    padding: 20px;
+
+}
+
+.instructions {
+    position: relative;
+    background-color: white;
+    width:100%;
+    padding: 20px;
+    font-family: "Merienda One";
+
+}
+
+td {
+    border:1px dotted gray;
+    font-family:"Merienda One";
+}
