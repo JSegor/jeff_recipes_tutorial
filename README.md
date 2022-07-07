@@ -14,7 +14,13 @@ To run this web application, navigate into the recipes folder and run
 
 `npm install`
 
+Make the appropriate changes in computer's system variables (see video slides and video tutorials)
+
+Modify the launch.json file to fit your computer's environment
+
 `ng build`
+
+Launch the Elasticsearch node in a Command Window and wait for it to come up
 
 `node server.js`
 

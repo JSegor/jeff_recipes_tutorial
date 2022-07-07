@@ -1,10 +1,12 @@
 <div class="container">
     <div class="row justify-content-center alignme">
         <div class="col">
-            <button (click)="importRecipes()" class="btn btn-primary">Import Recipes</button>
+            <button (click)="importRecipes()" [disabled]="turnoff_recipes"  [className]="turnoff_recipes ? 'btn btn-danger' : 'btn btn-primary'">Import
+                Recipes</button>
         </div>
         <div class="col">
-            <button (click)="importInventory()" class="btn btn-primary">Import Inventory</button>
+            <button (click)="importInventory()" [disabled]="turnoff_inventory" [className]="turnoff_inventory ? 'btn btn-danger' : 'btn btn-primary'">Import
+                Inventory</button>
         </div>
     </div>
 </div>
