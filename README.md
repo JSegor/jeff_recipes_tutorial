@@ -16,7 +16,11 @@ To run this web application, navigate into the recipes folder and run
 
 Make the appropriate changes in computer's system variables (see video slides and video tutorials)
 
+Follow the installation steps of Elasticsearch and Kibana from the video tutorials
+
 Modify the launch.json file to fit your computer's environment
+
+Make sure the http_ca.crt file is copied from your elasticsearch/config/certs directory into the recipes/server directory. Otherwise, you will get an HTTP 500 error when launching your app.  The http_ca.crt file in this repo is not valid for your instance of Elasticsearch. 
 
 `ng build`
 
