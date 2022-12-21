@@ -26,6 +26,7 @@ recipeIDs.push('creamy-beef-pasta.json');
 recipeIDs.push('crispy-chicken.json');
 recipeIDs.push('egg-bites.json');
 recipeIDs.push('frozen-beef-burgers.json');
+recipeIDs.push('mulligatawny-soup.json');
 recipeIDs.push('oatmeal.json');
 recipeIDs.push('pot-roast.json');
 recipeIDs.push('sloppy-joe.json');

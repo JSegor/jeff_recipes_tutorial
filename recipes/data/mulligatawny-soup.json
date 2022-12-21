@@ -1,0 +1,145 @@
+{
+    "identifier": "mulligatawny-soup",
+    "name": "Mulligatawny Soup",
+    "mealType": "main",
+    "linkName": "",
+    "linkSource": "",
+    "notes": "Combined several recipes. Best served with Yogurt. Use saute mode to heat up leftovers.",
+    "ingredients": [
+        {
+            "item": "Red Bell Pepper (diced)",
+            "amount": "1"
+        },
+        {
+            "item": "Celery Stalk (diced)",
+            "amount": "2"
+        },
+        {
+            "item": "Tomatoes (sliced)",
+            "amount": "2"
+        },
+        {
+            "item": "Baby Carrots (diced)",
+            "amount": "10"
+        },
+        {
+            "item": "Onion (diced)",
+            "amount": "1"
+        },
+        {
+            "item": "Apples (Granny Smith, green, tart, diced)",
+            "amount": "2"
+        },
+        {
+            "item": "Tapioca Flour",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "Cinnamon",
+            "amount": "1/4 tsp"
+        },
+        {
+            "item": "Ginger (ground)",
+            "amount": "1/2 tsp"
+        },
+        {
+            "item": "Curry Powder",
+            "amount": "4 tsp"
+        },
+        {
+            "item": "Cumin",
+            "amount": "1/2 tsp"
+        },
+        {
+            "item": "Cloves (ground)",
+            "amount": "1/2 tsp"
+        },
+        {
+            "item": "Bay Leaves",
+            "amount": "2"
+        },
+        {
+            "item": "Coconut Milk",
+            "amount": "1/2 cups"
+        },
+        {
+            "item": "Chicken Broth",
+            "amount": "4 cups"
+        },
+        {
+            "item": "Chicken Tenderloins (shredded)",
+            "amount": "1 lb"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Create a 1/2 cup of half-half milk + 1/2 tbsp white vinegar mixture."
+        },
+        {
+            "step": 2,
+            "description": "Soak chicken tenderloins for 20 minutes in fridge."
+        },
+        {
+            "step": 3,
+            "description": "Air fry chicken for 12 minutes at 370 degrees, flipping 1/2 way through."
+        },
+        {
+            "step": 4,
+            "description": "Turn on saute mode, add olive oil to pan."
+        },
+        {
+            "step": 5,
+            "description": "Add diced onions, celery, carrots, Red Bell pepper, sliced tomatoes, saute for a few minutes."
+        },
+        {
+            "step": 6,
+            "description": "Add 1/2 tsp of ginger, 1/4 tsp cinnamon, 4 tsp curry powder, 1/2 tsp cumin, 1/2 tsp ground cloves and mix."
+        },
+        {
+            "step": 7,
+            "description": "Add 4 cups of chicken broth and 2 bay leaves."
+        },
+        {
+            "step": 8,
+            "description": "Add 1/2 cup of coconut milk."
+        },
+        {
+            "step": 9,
+            "description": "Optional: 2 tbsp of Tapioca flour + 1 tbsp water in container, then mix in pot to thicken soup."
+        },
+        {
+            "step": 10,
+            "description": "Add chicken on top."
+        },
+        {
+            "step": 11,
+            "description": "Pressure cook for 5 minutes. Quick Release."
+        },
+        {
+            "step": 12,
+            "description": "Remove chicken to a plate."
+        },
+        {
+            "step": 13,
+            "description": "Add diced apples."
+        },
+        {
+            "step": 14,
+            "description": "Pressure cook for 2 more minutes. Quick release."
+        },
+        {
+            "step": 15,
+            "description": "Remove the bay leaves."
+        },
+        {
+            "step": 16,
+            "description": "Shred the chicken and mix into InstantPot."
+        },
+        {
+            "step": 17,
+            "description": "Serve with yogurt (either to soup or eat separately)."
+        }
+       
+    ]
+}

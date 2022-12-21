@@ -21,6 +21,15 @@
         "index": {}
     },
     {
+        "identifier": "cardamom",
+        "category": "Spices",
+        "name": "cardamom",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "cayenne",
         "category": "Spices",
         "name": "cayenne",
@@ -42,6 +51,42 @@
         "identifier": "cinnamon-ground",
         "category": "Spices",
         "name": "cinnamon (ground)",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cloves",
+        "category": "Spices",
+        "name": "cloves",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "coriander-seeds",
+        "category": "Spices",
+        "name": "coriander seeds",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cumin",
+        "category": "Spices",
+        "name": "cumin (ground)",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "curry-powder",
+        "category": "Spices",
+        "name": "curry powder",
         "instock": true
     },
     {
@@ -102,6 +147,24 @@
         "index": {}
     },
     {
+        "identifier": "mace",
+        "category": "Spices",
+        "name": "mace",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "mustard-seeds",
+        "category": "Spices",
+        "name": "mustard seeds",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "paprika",
         "category": "Spices",
         "name": "paprika",
@@ -142,6 +205,15 @@
         "category": "Spices",
         "name": "thyme (ground)",
         "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "tumeric-powder",
+        "category": "Spices",
+        "name": "tumeric powder",
+        "instock": false
     },
     {
         "index": {}
@@ -204,7 +276,7 @@
         "identifier": "stew-meat",
         "category": "Meat",
         "name": "stew meat",
-        "instock": true
+        "instock": false
     },
     {
         "index": {}
@@ -222,6 +294,15 @@
         "identifier": "brown-sugar",
         "category": "Condiments",
         "name": "brown sugar",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "coconut-milk",
+        "category": "Condiments",
+        "name": "coconut milk",
         "instock": true
     },
     {
@@ -294,7 +375,7 @@
         "identifier": "sour-cream",
         "category": "Condiments",
         "name": "sour cream",
-        "instock": true
+        "instock": false
     },
     {
         "index": {}
@@ -357,7 +438,7 @@
         "identifier": "avacados",
         "category": "Vegetables",
         "name": "avacados",
-        "instock": true
+        "instock": false
     },
     {
         "index": {}
@@ -366,7 +447,7 @@
         "identifier": "baby-bella-mushrooms",
         "category": "Vegetables",
         "name": "baby bella mushrooms",
-        "instock": true
+        "instock": false
     },
     {
         "index": {}
@@ -384,7 +465,7 @@
         "identifier": "baby-potatoes",
         "category": "Vegetables",
         "name": "baby potatoes",
-        "instock": true
+        "instock": false
     },
     {
         "index": {}
@@ -408,9 +489,27 @@
         "index": {}
     },
     {
+        "identifier": "celery",
+        "category": "Vegetables",
+        "name": "celery",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "cherry-tomatoes",
         "category": "Vegetables",
         "name": "cherry-tomatoes",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cilantro-leaves",
+        "category": "Vegetables",
+        "name": "cilantro leaves",
         "instock": false
     },
     {
@@ -444,6 +543,24 @@
         "index": {}
     },
     {
+        "identifier": "parsley",
+        "category": "Vegetables",
+        "name": "parsley",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "red-lentils",
+        "category": "Vegetables",
+        "name": "red lentils",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "sweet-potato",
         "category": "Vegetables",
         "name": "sweet potato",
@@ -462,10 +579,19 @@
         "index": {}
     },
     {
+        "identifier": "yams",
+        "category": "Vegetables",
+        "name": "yams",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "apples",
         "category": "Fruit",
         "name": "apples",
-        "instock": false
+        "instock": true
     },
     {
         "index": {}
@@ -475,6 +601,24 @@
         "category": "Fruit",
         "name": "grapes",
         "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "lemons",
+        "category": "Fruit",
+        "name": "lemons",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "oranges",
+        "category": "Fruit",
+        "name": "oranges",
+        "instock": false
     },
     {
         "index": {}
@@ -564,6 +708,15 @@
         "identifier": "chicken-broth",
         "category": "Broth",
         "name": "chicken broth",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "coconut-oil",
+        "category": "Oils",
+        "name": "coconut oil",
         "instock": false
     },
     {
@@ -606,6 +759,15 @@
         "index": {}
     },
     {
+        "identifier": "basmanti-rice",
+        "category": "Grains",
+        "name": "basmanti rice",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "bread",
         "category": "Grains",
         "name": "bread",
@@ -627,7 +789,7 @@
         "identifier": "buns-hotdog",
         "category": "Grains",
         "name": "buns hotdog",
-        "instock": true
+        "instock": false
     },
     {
         "index": {}
@@ -672,7 +834,7 @@
         "identifier": "rice",
         "category": "Grains",
         "name": "rice",
-        "instock": false
+        "instock": true
     },
     {
         "index": {}
@@ -717,7 +879,7 @@
         "identifier": "power-drink",
         "category": "Drinks",
         "name": "power drink",
-        "instock": false
+        "instock": true
     },
     {
         "index": {}
@@ -745,6 +907,15 @@
         "category": "Drinks",
         "name": "water",
         "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "emergen-C",
+        "category": "Vitamins and Herbs",
+        "name": "emergen-C",
+        "instock": false
     },
     {
         "index": {}
@@ -780,7 +951,7 @@
         "identifier": "almonds",
         "category": "Snacks",
         "name": "almonds",
-        "instock": true
+        "instock": false
     },
     {
         "index": {}
@@ -789,7 +960,7 @@
         "identifier": "cashews",
         "category": "Snacks",
         "name": "cashews",
-        "instock": false
+        "instock": true
     },
     {
         "index": {}
@@ -876,6 +1047,24 @@
         "index": {}
     },
     {
+        "identifier": "excedrin",
+        "category": "Medication",
+        "name": "excedrin",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "gasx",
+        "category": "Medication",
+        "name": "gasX",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "pepcid",
         "category": "Medication",
         "name": "pepcid",
@@ -885,9 +1074,9 @@
         "index": {}
     },
     {
-        "identifier": "excedrin",
+        "identifier": "senokot",
         "category": "Medication",
-        "name": "excedrin",
+        "name": "Senokot",
         "instock": true
     },
     {
@@ -906,6 +1095,15 @@
         "identifier": "dish-soap",
         "category": "Other",
         "name": "dish soap",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "forks",
+        "category": "Other",
+        "name": "forks",
         "instock": false
     },
     {
@@ -957,9 +1155,27 @@
         "index": {}
     },
     {
+        "identifier": "razors",
+        "category": "Other",
+        "name": "razors",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "tweezers",
         "category": "Other",
         "name": "tweezers",
-        "instock": false
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "wipes",
+        "category": "Other",
+        "name": "wipes",
+        "instock": true
     }
 ]

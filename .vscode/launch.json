@@ -18,7 +18,7 @@
             "name": "Launch Chrome on Server",
             "request": "launch",
             "type": "chrome",
-            "url": "http://192.168.1.203:98",
+            "url": "http://192.168.1.203:82",
             "webRoot": "${workspaceFolder}/recipes"
         },
         {

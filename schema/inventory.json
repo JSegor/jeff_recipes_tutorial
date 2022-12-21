@@ -59,3 +59,13 @@ POST inventory/_delete_by_query?conflicts=proceed
     "match_all": {}
   }
 }
+
+
+// Get all recipes
+GET inventory/_search
+{
+  "size": 200,
+  "query": {
+    "match_all": {}
+  }
+}
