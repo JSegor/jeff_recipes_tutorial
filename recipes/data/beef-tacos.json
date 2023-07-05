@@ -1,0 +1,94 @@
+{
+    "identifier": "beef-tacos",
+    "name": "Beef Tacos",
+    "mealType": "main",
+    "linkName": "",
+    "linkSource": "",
+    "notes": "",
+    "ingredients": [
+        {
+            "item": "",
+            "amount": ""
+        },
+        {
+            "item": "",
+            "amount": ""
+        },
+        {
+            "item": "",
+            "amount": ""
+        }
+       
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": ""
+        },
+        {
+            "step": 2,
+            "description": ""
+        },
+        {
+            "step": 3,
+            "description": ""
+        },
+        {
+            "step": 4,
+            "description": ""
+        },
+        {
+            "step": 5,
+            "description": ""
+        },
+        {
+            "step": 6,
+            "description": ""
+        },
+        {
+            "step": 7,
+            "description": ""
+        },
+        {
+            "step": 8,
+            "description": ""
+        },
+        {
+            "step": 9,
+            "description": ""
+        },
+        {
+            "step": 10,
+            "description": ""
+        },
+        {
+            "step": 11,
+            "description": ""
+        },
+        {
+            "step": 12,
+            "description": ""
+        },
+        {
+            "step": 13,
+            "description": ""
+        },
+        {
+            "step": 14,
+            "description": ""
+        },
+        {
+            "step": 15,
+            "description": ""
+        },
+        {
+            "step": 16,
+            "description": ""
+        },
+        {
+            "step": 17,
+            "description": ""
+        }
+
+    ]
+}

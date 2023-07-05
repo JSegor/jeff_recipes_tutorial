@@ -73,24 +73,31 @@ export class ShoppingListComponent implements OnInit {
 
     let self = this;
 
-    this.categories.push({ "name": "Spices", "checked": false });
-    this.categories.push({ "name": "Meat", "checked": false });
-    this.categories.push({ "name": "Condiments", "checked": false });
-    this.categories.push({ "name": "Vegetables", "checked": false });
-    this.categories.push({ "name": "Fruit", "checked": false });
-    this.categories.push({ "name": "Dairy", "checked": false });
+
     this.categories.push({ "name": "Broth", "checked": false });
-    this.categories.push({ "name": "Oils", "checked": false });
-    this.categories.push({ "name": "Pasta", "checked": false });
-    this.categories.push({ "name": "Grains", "checked": false });
+    this.categories.push({ "name": "Condiments", "checked": false });
     this.categories.push({ "name": "Confections", "checked": false });
+    this.categories.push({ "name": "Dairy", "checked": false });
     this.categories.push({ "name": "Drinks", "checked": false });
-    this.categories.push({ "name": "Vitamins and Herbs", "checked": false });
-    this.categories.push({ "name": "Pastries", "checked": false });
-    this.categories.push({ "name": "Snacks", "checked": false });
+    this.categories.push({ "name": "Fruit", "checked": false });
     this.categories.push({ "name": "Garden", "checked": false });
+    this.categories.push({ "name": "Grains", "checked": false });
+    this.categories.push({ "name": "Meat", "checked": false });
     this.categories.push({ "name": "Medication", "checked": false });
+    this.categories.push({ "name": "Pasta", "checked": false });
+    this.categories.push({ "name": "Pastries", "checked": false });
+    this.categories.push({ "name": "Oils", "checked": false });
+    this.categories.push({ "name": "Snacks", "checked": false });
+    this.categories.push({ "name": "Spices", "checked": false });
+    this.categories.push({ "name": "Vegetables", "checked": false });
+    this.categories.push({ "name": "Vitamins and Herbs", "checked": false });
     this.categories.push({ "name": "Other", "checked": false });
+
+    
+    
+    
+    
+    
 
 
   }

@@ -30,6 +30,7 @@ recipeIDs.push('mulligatawny-soup.json');
 recipeIDs.push('oatmeal.json');
 recipeIDs.push('pot-roast.json');
 recipeIDs.push('sloppy-joe.json');
+recipeIDs.push('pork-chops.json');
 
 
 const { Client } = require('@elastic/elasticsearch')

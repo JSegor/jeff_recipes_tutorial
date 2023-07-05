@@ -1065,9 +1065,27 @@
         "index": {}
     },
     {
+        "identifier": "ibuprofen",
+        "category": "Medication",
+        "name": "ibuprofen",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "pepcid",
         "category": "Medication",
         "name": "pepcid",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "pepto-bismo",
+        "category": "Medication",
+        "name": "pepto bismo",
         "instock": true
     },
     {
@@ -1083,6 +1101,24 @@
         "index": {}
     },
     {
+        "identifier": "vasoline",
+        "category": "Medication",
+        "name": "vasoline",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "aluminum-foil",
+        "category": "Other",
+        "name": "aluminum foil",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "cleanex",
         "category": "Other",
         "name": "cleanex",
@@ -1092,9 +1128,27 @@
         "index": {}
     },
     {
+        "identifier": "detergent",
+        "category": "Other",
+        "name": "detergent",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "dish-soap",
         "category": "Other",
         "name": "dish soap",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "foam-cups",
+        "category": "Other",
+        "name": "foam cups",
         "instock": true
     },
     {
@@ -1164,9 +1218,27 @@
         "index": {}
     },
     {
+        "identifier": "trash-bags",
+        "category": "Other",
+        "name": "trash bags",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "tweezers",
         "category": "Other",
         "name": "tweezers",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "underwear",
+        "category": "Other",
+        "name": "underwear",
         "instock": true
     },
     {

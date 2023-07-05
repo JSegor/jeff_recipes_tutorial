@@ -1,0 +1,125 @@
+{
+    "identifier": "pork-chops",
+    "name": "Pork Chops With Potato Wedges and Green Beans",
+    "mealType": "main",
+    "linkName": "",
+    "linkSource": "",
+    "notes": "Fig jam can be substituted with any other jam. Instead of condensed broth, you can use real broth (1/4 cup). Instead of parmesan cheese for the green beans you could add almonds.",
+    "ingredients": [
+        {
+            "item": "boneless pork chops",
+            "amount": "2"
+        },
+        {
+            "item": "green beans (fresh)",
+            "amount": "1 medium package"
+        },
+        {
+            "item": "baby potatoes",
+            "amount": "5"
+        },
+        {
+            "item": "fig jam",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "olive oil",
+            "amount": "drizzle"
+        },
+        {
+            "item": "garlic cloves",
+            "amount": "1 tbsp or 15ml"
+        },
+        {
+            "item": "butter",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "paprika",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "salt",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "pepper",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "parmesan cheese",
+            "amount": "sprinkle"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Trim the tips of green beans."
+        },
+        {
+            "step": 2,
+            "description": "Peel baby potatoes and cut into wedges."
+        },
+        {
+            "step": 3,
+            "description": "Dice two or three cloves of garlic."
+        },
+        {
+            "step": 4,
+            "description": "In frying pan, add some olive oil, pre-heat medium-high and add 2 pork chops."
+        },
+        {
+            "step": 5,
+            "description": "Salt and pepper pork chops and cook 5 minutes each side."
+        },
+        {
+            "step": 6,
+            "description": "In a bowl, add some olive oil and add potato wedges and mix."
+        },
+        {
+            "step": 7,
+            "description": "Add some minced garlic, garlic salt, salt, pepper and paprika to potato wedges."
+        },
+        {
+            "step": 8,
+            "description": "Add potatoes to air fryer tray, set air fryer to 400 F and cook 10 minutes, stirring half-way through."
+        },
+        {
+            "step": 9,
+            "description": "When done, set potatoes aside."
+        },
+        {
+            "step": 10,
+            "description": "Remove tray, add 2 cups of water to InstantPot and add green beans directly into water."
+        },
+        {
+            "step": 11,
+            "description": "Pressure cook for 0 minutes. Quick release and remove beans and drain."
+        },
+        {
+            "step": 12,
+            "description": "Remove water from InstantPot, turn on saute mode low heat."
+        },
+        {
+            "step": 13,
+            "description": "Add some butter and melt, add green beans and parmesan cheese, and saute for a short time."
+        },
+        {
+            "step": 14,
+            "description": "In a clean frying pan, add a tiny bit of olive oil and some chopped garlic."
+        },
+        {
+            "step": 15,
+            "description": "Cook the garlic for a minute or so. Add 1/4 cup water, condensed chicken broth, fig jam."
+        },
+        {
+            "step": 16,
+            "description": "Cook the pork chop topping for 3 minutes until thicker."
+        },
+        {
+            "step": 17,
+            "description": "Serve pork chops, green beans, potatoes and top chops with sauce."
+        }
+
+    ]
+}
