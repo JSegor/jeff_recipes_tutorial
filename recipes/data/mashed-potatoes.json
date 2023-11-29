@@ -1,0 +1,76 @@
+{
+    "identifier": "mashed-potatoes",
+    "name": "Mashed Potatoes",
+    "mealType": "side",
+    "linkName": "Instant Pot Mashed Potatoes",
+    "linkSource": "https://youtu.be/M5Ydt5-EHG8",
+    "notes": "",
+    "ingredients": [
+        {
+            "item": "golden baby potatoes",
+            "amount": "4 or 5"
+        },
+        {
+            "item": "salt",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "pepper",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "butter",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "cream",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "sour cream",
+            "amount": "2 tbsp"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Wash and peel baby potatoes"
+        },
+        {
+            "step": 2,
+            "description": "Cube potatoes."
+        },
+        {
+            "step": 3,
+            "description": "Add 1 cup of water into InstantPot and add potatoes directly into water."
+        },
+        {
+            "step": 4,
+            "description": "Pressure Cook: 10 minutes."
+        },
+        {
+            "step": 5,
+            "description": "Slow Release for 5-10 minutes."
+        },
+        {
+            "step": 6,
+            "description": "Drain away the water and keep potatoes in pot."
+        },
+        {
+            "step": 7,
+            "description": "Saute potatoes for about 1 minute."
+        },
+        {
+            "step": 8,
+            "description": "Mash the potatoes with hand held masher."
+        },
+        {
+            "step": 9,
+            "description": "Add melted butter and luke warm cream to potatoes and mix."
+        },
+        {
+            "step": 10,
+            "description": "Add sour cream to potatoes and mix."
+        }
+    ]
+}
