@@ -1,0 +1,67 @@
+{
+    "identifier": "mashed-sweet-potatoes",
+    "name": "Mashed Sweet Potatoes",
+    "mealType": "side",
+    "linkName": "",
+    "notes": "Works better than pressure cooking whole with skins on, like some recipes suggest. Smooth mashed potatoes this way.",
+    "ingredients": [
+        {
+            "item": "Sweet Potatoes",
+            "amount": "1-3"
+        },
+        {
+            "item": "salt",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "pepper",
+            "amount": "sprinkle"
+        },
+        {
+            "item": "butter",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "sour cream",
+            "amount": "2 tbsp"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Wash and peel sweet potatoes"
+        },
+        {
+            "step": 2,
+            "description": "Slice sweet potatoes into disks."
+        },
+        {
+            "step": 3,
+            "description": "Add 1 cup of water into InstantPot and add sweet potatoes directly into water."
+        },
+        {
+            "step": 4,
+            "description": "Pressure Cook: 15 minutes."
+        },
+        {
+            "step": 5,
+            "description": "Slow Release for 5-10 minutes."
+        },
+        {
+            "step": 6,
+            "description": "Drain away the water and put into bowl."
+        },
+        {
+            "step": 7,
+            "description": "Mash the potatoes with hand held masher."
+        },
+        {
+            "step": 8,
+            "description": "Add melted butter and mix."
+        },
+        {
+            "step": 9,
+            "description": "Add sour cream to potatoes and mix."
+        }
+    ]
+}

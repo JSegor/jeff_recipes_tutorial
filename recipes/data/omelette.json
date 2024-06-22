@@ -1,0 +1,138 @@
+{
+    "identifier": "omelette",
+    "name": "Omelette",
+    "mealType": "breakfast",
+    "linkName": "",
+    "linkSource": "",
+    "notes": "For 2 people. Use large, curved frying pan. Finely dice green onion from both white and green ends using a sharp knife to make 2 tbsp. Use serrated knive to dice tomatoes. Use a combination of red, orange, and yellow bell peppers and dice with sharp knife. Avoid ribs. For 1 person, use 3 eggs. ",
+    "ingredients": [
+        {
+            "item": "eggs",
+            "amount": "4"
+        },
+        {
+            "item": "green onions",
+            "amount": "2 tbsp"
+        },
+        {
+            "item": "bell pepper",
+            "amount": "1/2 cup"
+        },
+        {
+            "item": "olives",
+            "amount": "1/3 cup"
+        },
+        {
+            "item": "cheddar cheese (mild)",
+            "amount": "1/4 cup"
+        },
+        {
+            "item": "tomato (grape)",
+            "amount": "6 grape tomatoes or 1/3 cup"
+        },
+        {
+            "item": "avocado",
+            "amount": "1/2"
+        },
+        {
+            "item": "sour cream",
+            "amount": "3 tbsp"
+        },
+        {
+            "item": "Pace chunky salsa (mild)",
+            "amount": "1/4 cup"
+        },
+        {
+            "item": "butter",
+            "amount": "1 tbsp"
+        },
+        {
+            "item": "olive oil",
+            "amount": "1 tsp"
+        },
+        {
+            "item": "italian seasoning",
+            "amount": "dusting over 1/2 omelette"
+        }
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "Make sure all veggies are diced and ready to go, see notes. Heat large frying pan on low, melting butter"
+        },
+        {
+            "step": 2,
+            "description": "Add olive oil (not too much) and mix and cover curvy parts of pan"
+        },
+        {
+            "step": 3,
+            "description": "Beat 4 large (or medium) and make them fluffy by twirling them upward to mix with air"
+        },
+        {
+            "step": 4,
+            "description": "Heat pan on medium."
+        },
+        {
+            "step": 5,
+            "description": "Watch for bubbling butter before putting eggs into pan"
+        },
+        {
+            "step": 6,
+            "description": "Add eggs to pan and use a large spatula."
+        },
+        {
+            "step": 7,
+            "description": "Start sliding eggs with spatula and rotating pan. Keep edges crispy and move uncooked part of eggs around."
+        },
+        {
+            "step": 8,
+            "description": "Fix any holes by filling them and cook for a minute or so"
+        },
+   
+        {
+            "step": 9,
+            "description": "Add cheddar cheese evenly on top"
+        },
+        {
+            "step": 10,
+            "description": "Add dusting of italian seasoning"
+        },
+        {
+            "step": 11,
+            "description": "Turn temperature off if too hot. Don't burn bottom of omelette."
+        },
+        {
+            "step": 12,
+            "description": "Add salsa all around and spread throughout pan with spoon"
+        },
+        {
+            "step": 13,
+            "description": "Add onions, bell peppers to one half of omelette."
+        },
+        {
+            "step": 14,
+            "description": "Add tomatos and olives to one half of omelette"
+        },
+        {
+            "step": 15,
+            "description": "Add avocado to one half of the omelette since we will be folding it"
+        },
+        {
+            "step": 16,
+            "description": "Add sour cream to one half of the omelette"
+        },
+        {
+            "step": 17,
+            "description": "Unstick bottom of omelette"
+        },
+        {
+            "step": 18,
+            "description": "Fold omelette from the side which has no veggies in one movement of hand like closing a book."
+        },
+        {
+            "step": 19,
+            "description": "Cut omelette in half and serve to two people by sliding into plate from pan."
+        }
+
+    ]
+}

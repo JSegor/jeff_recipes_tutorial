@@ -29,9 +29,11 @@ recipeIDs.push('frozen-beef-burgers.json');
 recipeIDs.push('mashed-potatoes.json');
 recipeIDs.push('mulligatawny-soup.json');
 recipeIDs.push('oatmeal.json');
+recipeIDs.push('omelette.json');
 recipeIDs.push('pot-roast.json');
 recipeIDs.push('sloppy-joe.json');
 recipeIDs.push('pork-chops.json');
+recipeIDs.push('mashed-sweet-potatoes.json');
 
 
 

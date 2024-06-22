@@ -75,6 +75,7 @@ export class ShoppingListComponent implements OnInit {
 
 
     this.categories.push({ "name": "Broth", "checked": false });
+    this.categories.push({ "name": "Canned", "checked": false });
     this.categories.push({ "name": "Condiments", "checked": false });
     this.categories.push({ "name": "Confections", "checked": false });
     this.categories.push({ "name": "Dairy", "checked": false });

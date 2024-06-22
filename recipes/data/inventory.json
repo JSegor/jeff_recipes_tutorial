@@ -3,6 +3,25 @@
         "index": {}
     },
     {
+        "identifier": "kidney-beans-red",
+        "category": "Canned",
+        "name": "red kidney beans",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "tuna",
+        "category": "Canned",
+        "name": "tuna (white abacore)",
+        "instock": true
+    },
+
+    {
+        "index": {}
+    },
+    {
         "identifier": "basil",
         "category": "Spices",
         "name": "basil",
@@ -347,7 +366,16 @@
     {
         "identifier": "mayonnaise",
         "category": "Condiments",
-        "name": "mayonnaise",
+        "name": "mayonnaise (craft, light)",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "preserves-cherry",
+        "category": "Condiments",
+        "name": "preserves cherry",
         "instock": false
     },
     {
@@ -363,9 +391,9 @@
         "index": {}
     },
     {
-        "identifier": "salsa",
+        "identifier": "salsa-pace-chunky-mild",
         "category": "Condiments",
-        "name": "salsa",
+        "name": "salsa Pace chunky mild",
         "instock": false
     },
     {
@@ -489,20 +517,21 @@
         "index": {}
     },
     {
-        "identifier": "celery",
+        "identifier": "black-olives",
         "category": "Vegetables",
-        "name": "celery",
+        "name": "black olives",
         "instock": false
     },
     {
         "index": {}
     },
     {
-        "identifier": "cherry-tomatoes",
+        "identifier": "celery",
         "category": "Vegetables",
-        "name": "cherry-tomatoes",
+        "name": "celery",
         "instock": false
     },
+   
     {
         "index": {}
     },
@@ -525,6 +554,15 @@
         "index": {}
     },
     {
+        "identifier": "cucumbers",
+        "category": "Vegetables",
+        "name": "cucumbers",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "lettuce",
         "category": "Vegetables",
         "name": "lettuce",
@@ -534,9 +572,18 @@
         "index": {}
     },
     {
-        "identifier": "onions",
+        "identifier": "onions-green",
         "category": "Vegetables",
-        "name": "onions",
+        "name": "onions-green",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "onions-round",
+        "category": "Vegetables",
+        "name": "onions-round",
         "instock": true
     },
     {
@@ -552,9 +599,36 @@
         "index": {}
     },
     {
+        "identifier": "radishes",
+        "category": "Vegetables",
+        "name": "radishes",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "red-lentils",
         "category": "Vegetables",
         "name": "red lentils",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "salad-packaged",
+        "category": "Vegetables",
+        "name": "salad packaged",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "scallions",
+        "category": "Vegetables",
+        "name": "scallions",
         "instock": false
     },
     {
@@ -579,9 +653,45 @@
         "index": {}
     },
     {
+        "identifier": "tomatoes-cherry",
+        "category": "Vegetables",
+        "name": "tomatoes cherry",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "tomatoes-grape",
+        "category": "Vegetables",
+        "name": "tomatoes grape",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "tomatoes-round",
+        "category": "Vegetables",
+        "name": "tomatoes round",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
         "identifier": "yams",
         "category": "Vegetables",
         "name": "yams",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "zuccini",
+        "category": "Vegetables",
+        "name": "zuccini",
         "instock": false
     },
     {
@@ -642,9 +752,18 @@
         "index": {}
     },
     {
-        "identifier": "cheddar-cheese",
+        "identifier": "cheddar-cheese-medium",
         "category": "Dairy",
-        "name": "cheddar cheese",
+        "name": "cheddar cheese medium",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "cheddar-cheese-mild",
+        "category": "Dairy",
+        "name": "cheddar cheese mild",
         "instock": true
     },
     {
@@ -663,6 +782,15 @@
         "identifier": "cream-cheese",
         "category": "Dairy",
         "name": "cream cheese",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "eggs",
+        "category": "Dairy",
+        "name": "eggs",
         "instock": true
     },
     {
@@ -840,9 +968,18 @@
         "index": {}
     },
     {
-        "identifier": "chocolate",
+        "identifier": "chocolate-dark",
         "category": "Confections",
-        "name": "chocolate",
+        "name": "chocolate-dark",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "chocolate-milk",
+        "category": "Confections",
+        "name": "chocolate-milk",
         "instock": false
     },
     {
@@ -969,6 +1106,15 @@
         "identifier": "chips",
         "category": "Snacks",
         "name": "chips",
+        "instock": false
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "chips-doritos-nacho-cheese",
+        "category": "Snacks",
+        "name": "chips doritos nacho cheese",
         "instock": false
     },
     {
@@ -1191,9 +1337,9 @@
         "index": {}
     },
     {
-        "identifier": "paper-towels",
+        "identifier": "paper-towels-viva-signature-cloth",
         "category": "Other",
-        "name": "paper towels",
+        "name": "paper towels Viva signature cloth",
         "instock": true
     },
     {
@@ -1212,6 +1358,15 @@
         "identifier": "razors",
         "category": "Other",
         "name": "razors",
+        "instock": true
+    },
+    {
+        "index": {}
+    },
+    {
+        "identifier": "scissors",
+        "category": "Other",
+        "name": "scissors",
         "instock": true
     },
     {
